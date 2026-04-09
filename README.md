@@ -59,10 +59,10 @@ const profile = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/Fabric-0b0f14?style=for-the-badge&logoColor=white&labelColor=0b0f14" />
-<img src="https://img.shields.io/badge/Forge-0b0f14?style=for-the-badge&logoColor=white&labelColor=0b0f14" />
-<img src="https://img.shields.io/badge/Paper-0b0f14?style=for-the-badge&logoColor=white&labelColor=0b0f14" />
-<img src="https://img.shields.io/badge/Spigot-0b0f14?style=for-the-badge&logoColor=white&labelColor=0b0f14" />
+<img src="https://img.shields.io/badge/Fabric-0b0f14?style=for-the-badge&labelColor=0b0f14" />
+<img src="https://img.shields.io/badge/Forge-0b0f14?style=for-the-badge&labelColor=0b0f14" />
+<img src="https://img.shields.io/badge/Paper-0b0f14?style=for-the-badge&labelColor=0b0f14" />
+<img src="https://img.shields.io/badge/Spigot-0b0f14?style=for-the-badge&labelColor=0b0f14" />
 <img src="https://img.shields.io/badge/Discord.py-0b0f14?style=for-the-badge&logo=python&logoColor=white&labelColor=0b0f14" />
 
 <br/><br/>
@@ -75,7 +75,7 @@ const profile = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Blockbench-0b0f14?style=for-the-badge&logoColor=white&labelColor=0b0f14" />
+<img src="https://img.shields.io/badge/Blockbench-0b0f14?style=for-the-badge&labelColor=0b0f14" />
 <img src="https://img.shields.io/badge/GitHub+Pages-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f14" />
 
 </div>
@@ -114,16 +114,6 @@ const profile = {
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=20&text=%20&fontSize=1" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zholywhite/zholywhite/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zholywhite/zholywhite/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zholywhite/zholywhite/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070b,35:0d1117,65:1a3a3c,100:05070b&height=90&section=footer" width="100%"/>
 
