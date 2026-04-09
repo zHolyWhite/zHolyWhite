@@ -1,178 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a3c,100:0d1117&height=160&section=header&text=zHolyWhite&fontSize=48&fontColor=4F98A3&fontAlignY=55&animation=fadeIn&desc=Minecraft%20Modder%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20Discord%20Bot%20Dev&descSize=13&descAlignY=75&descColor=505050" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070b,35:0d1117,65:1a3a3c,100:05070b&height=180&section=header&text=zHolyWhite&fontSize=50&fontColor=d9e0ee&fontAlignY=42&desc=Software%20Developer%20%E2%80%A2%20Minecraft%20Modder%20%E2%80%A2%20Web%20Developer&descSize=14&descAlignY=62&descColor=6f7a83&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1000&color=4F98A3&center=true&vCenter=true&width=500&lines=Fabric+%26+Forge+Mod+Developer;Web+Developer+%E2%80%94+Astro+%2F+TypeScript+%2F+Tailwind;Discord+Bot+%26+Plugin+Developer;Shader+%26+3D+Asset+Creator;Open+to+freelance+%E2%80%94+just+credit+me)](https://zholywhite.me)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=900&color=8BA7B0&center=true&vCenter=true&width=700&lines=Java+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Minecraft+Mods;Fabric+%E2%80%A2+Forge+%E2%80%A2+Paper+%E2%80%A2+Spigot;Astro+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+TailwindCSS;Discord+Bots+%E2%80%A2+Web+Apps+%E2%80%A2+Creative+Tools" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<a href="https://zholywhite.me">
-  <img src="https://img.shields.io/badge/zholywhite.me-0d1117?style=flat-square&logo=vercel&logoColor=4F98A3" height="22"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=zholywhite&color=4f98a3&style=flat-square&label=profile+views" height="22"/>
+<a href="https://zholywhite.me"><img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0b0f14" alt="Portfolio" /></a>
+<a href="https://github.com/zholywhite"><img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0b0f14" alt="GitHub" /></a>
+<a href="https://discord.com/users/zholywhite"><img src="https://img.shields.io/badge/Discord-0b0f14?style=for-the-badge&logo=discord&logoColor=8ea1ff&labelColor=0b0f14" alt="Discord" /></a>
+<a href="https://modrinth.com/user/zholywhite"><img src="https://img.shields.io/badge/Modrinth-0b0f14?style=for-the-badge&logo=modrinth&logoColor=1bd96a&labelColor=0b0f14" alt="Modrinth" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=zholywhite&style=flat-square&color=4F98A3&label=profile+views" alt="profile views" />
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
-
-## About
-
-> Minecraft modder focused on Fabric, Forge and custom gameplay systems.
-> I also build web apps, Discord bots and creative tools for communities.
-
-<br/>
-
-```ts
-const zHolyWhite = {
-  from:    "Latinoamérica",
-  focus:   ["Minecraft Mods", "Web Apps", "Discord Bots", "Shaders"],
-  stack:   ["Java", "TypeScript", "Python", "Kotlin", "GLSL"],
-  tools:   ["IntelliJ IDEA", "VS Code", "Blender", "Gradle"],
-  deploy:  ["Vercel", "GitHub Pages"],
-  status:  "open to freelance — solo pido reconocimiento",
-};
-```
-
-<br/>
-
----
-
-<br/>
-
-## Tech Stack
-
-<details>
-<summary>&nbsp;View full stack</summary>
-
-<br/>
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,kotlin&theme=dark&perline=5" />
-
-<br/>
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=astro,tailwind,discordjs,gradle,blender&theme=dark&perline=5" />
-
-<br/>
-
-**Environment**
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,vercel&theme=dark&perline=5" />
+```ts
+const profile = {
+  role: ["Software Developer", "Minecraft Modder", "Web Developer"],
+  main: ["Java", "Python", "TypeScript"],
+  focus: ["Mods", "Bots", "Web Apps", "Creative Tools"]
+}
+```
 
 </div>
 
-<br/>
-
-</details>
-
-<br/>
-
 ---
 
+## Stack
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:0b0f14&height=45&section=header&text=Languages&fontSize=18&fontColor=8BA7B0&animation=fadeIn" />
+
 <br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,cpp,html,css,bash,md&theme=dark&perline=5" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:0b0f14&height=45&section=header&text=Frameworks&fontSize=18&fontColor=8BA7B0&animation=fadeIn" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=astro,nextjs,react,tailwind,nodejs,electron,nestjs&theme=dark&perline=4" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:0b0f14&height=45&section=header&text=Minecraft+%26+Backend&fontSize=18&fontColor=8BA7B0&animation=fadeIn" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Fabric-0b0f14?style=for-the-badge&logoColor=white&labelColor=0b0f14" />
+<img src="https://img.shields.io/badge/Forge-0b0f14?style=for-the-badge&logoColor=white&labelColor=0b0f14" />
+<img src="https://img.shields.io/badge/Paper-0b0f14?style=for-the-badge&logoColor=white&labelColor=0b0f14" />
+<img src="https://img.shields.io/badge/Spigot-0b0f14?style=for-the-badge&logoColor=white&labelColor=0b0f14" />
+<img src="https://img.shields.io/badge/Discord.py-0b0f14?style=for-the-badge&logo=python&logoColor=white&labelColor=0b0f14" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:0b0f14&height=45&section=header&text=Tools&fontSize=18&fontColor=8BA7B0&animation=fadeIn" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,docker,gradle,maven,vscode,idea,github,vercel,netlify,cloudflare,mysql&theme=dark&perline=6" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Blockbench-0b0f14?style=for-the-badge&logoColor=white&labelColor=0b0f14" />
+<img src="https://img.shields.io/badge/GitHub+Pages-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f14" />
+
+</div>
+
+---
 
 ## Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zholywhite&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4F98A3&icon_color=4F98A3&text_color=6e6e6e&ring_color=4F98A3&rank_icon=github&custom_title=Stats&include_all_commits=true&hide=contribs"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zholywhite&show_icons=true&hide_border=true&title_color=01696f&icon_color=01696f&text_color=444&ring_color=01696f&rank_icon=github&custom_title=Stats&include_all_commits=true&hide=contribs"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=zholywhite&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4F98A3&icon_color=4F98A3&text_color=6e6e6e&ring_color=4F98A3&rank_icon=github&custom_title=Stats&include_all_commits=true&hide=contribs" height="155"/>
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zholywhite&layout=compact&hide_border=true&bg_color=0d1117&title_color=4F98A3&text_color=6e6e6e&langs_count=6&custom_title=Top+Languages"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zholywhite&layout=compact&hide_border=true&title_color=01696f&text_color=444&langs_count=6&custom_title=Top+Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zholywhite&layout=compact&hide_border=true&bg_color=0d1117&title_color=4F98A3&text_color=6e6e6e&langs_count=6&custom_title=Top+Languages" height="155"/>
-</picture>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zholywhite&show_icons=true&hide_border=true&bg_color=00000000&title_color=8BA7B0&icon_color=8BA7B0&text_color=b8c0cc&ring_color=8BA7B0&rank_icon=github&custom_title=GitHub+Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zholywhite&layout=compact&hide_border=true&bg_color=00000000&title_color=8BA7B0&text_color=b8c0cc&custom_title=Languages" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=zholywhite&theme=transparent&hide_border=true&background=0d1117&ring=4F98A3&fire=4F98A3&currStreakLabel=4F98A3&sideLabels=6e6e6e&dates=3a3a3a&currStreakNum=cccccc&sideNums=cccccc"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=zholywhite&theme=transparent&hide_border=true&ring=01696f&fire=01696f&currStreakLabel=01696f&sideLabels=888&dates=bbb&currStreakNum=333&sideNums=333"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zholywhite&theme=transparent&hide_border=true&background=0d1117&ring=4F98A3&fire=4F98A3&currStreakLabel=4F98A3&sideLabels=6e6e6e&dates=3a3a3a&currStreakNum=cccccc&sideNums=cccccc" height="140"/>
-</picture>
+<img height="145" src="https://streak-stats.demolab.com?user=zholywhite&theme=transparent&hide_border=true&ring=8BA7B0&fire=8BA7B0&currStreakLabel=8BA7B0&sideLabels=b8c0cc&currStreakNum=d9e0ee&sideNums=d9e0ee&dates=6f7a83" />
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zholywhite&bg_color=0d1117&color=4F98A3&line=1a3a3c&point=4F98A3&area=true&area_color=1a3a3c&hide_border=true&custom_title=Contribution+Graph)](https://github.com/zholywhite)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zholywhite&bg_color=00000000&color=8BA7B0&line=4F98A3&point=d9e0ee&area=true&hide_border=true&custom_title=Contribution+Graph" width="95%" />
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## Portfolio
 
 <div align="center">
 
-A showcase of my projects, experiments and creative work.
-
-<br/>
-
 <a href="https://zholywhite.me">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=4F98A3&label=zholywhite.me&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/Visit+Portfolio-0b0f14?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0b0f14" />
 </a>
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
-
-## Socials
 
 <div align="center">
 
-<a href="https://discord.com/users/zholywhite">
-  <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=5865F2"/>
-</a>
-&nbsp;
-<a href="https://modrinth.com/user/zholywhite">
-  <img src="https://img.shields.io/badge/Modrinth-111111?style=for-the-badge&logo=modrinth&logoColor=00AF5C"/>
-</a>
-&nbsp;
-<a href="https://github.com/zholywhite">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20&text=%20&fontSize=1" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zholywhite/zholywhite/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zholywhite/zholywhite/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zholywhite/zholywhite/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zholywhite/zholywhite/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zholywhite/zholywhite/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zholywhite/zholywhite/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a3c,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070b,35:0d1117,65:1a3a3c,100:05070b&height=90&section=footer" width="100%"/>
+
+</div>
