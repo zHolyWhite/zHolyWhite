@@ -2,12 +2,6 @@
 
 # zHolyWhite
 
-<sub>Software Developer • Minecraft Modder • Web Developer</sub>
-
-<br/>
-
-<br/><br/>
-
 <a href="https://zholywhite.me">
   <img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 </a>
