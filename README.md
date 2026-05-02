@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=900&color=8BA7B0&center=true&vCenter=true&width=600&lines=Java+•+Python+•+TypeScript;Minecraft+Mods+•+Discord+Bots+•+Web+Apps;Fabric+•+Forge+•+Paper+•+Spigot" />
-
 <br/><br/>
 
 <a href="https://zholywhite.me">
