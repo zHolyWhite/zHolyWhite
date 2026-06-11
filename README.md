@@ -1,7 +1,5 @@
 <div align="center">
-
 # zHolyWhite
-
 <a href="https://zholywhite.me">
   <img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 </a>
@@ -14,7 +12,6 @@
 <a href="https://modrinth.com/user/zholywhite">
   <img src="https://img.shields.io/badge/Modrinth-0b0f14?style=for-the-badge&logo=modrinth&logoColor=1bd96a" />
 </a>
-
 </div>
 
 ---
@@ -22,15 +19,9 @@
 ## Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,cpp,html,css,bash,md&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,cpp,rust,go,kotlin,html,css,bash,md&theme=dark" />
 <br/>
-
-<img src="https://skillicons.dev/icons?i=astro,nextjs,react,tailwind,nodejs,electron,nestjs&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=astro,nextjs,react,tailwind,nodejs,electron,nestjs,tauri,django,spring,fastapi&theme=dark" />
 <br/>
-
 <img src="https://skillicons.dev/icons?i=git,docker,gradle,maven,vscode,idea,github,vercel,cloudflare,mysql&theme=dark" />
-
 </div>
