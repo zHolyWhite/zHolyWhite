@@ -2,9 +2,6 @@
 
 # Full Stack Developer
 
-c="https://img.shields.io/badge/Modrinth-0b0f14?style=for-the-badge&logo=modrinth&logoColor=1bd96a" />
-</a>
-
 </div>
 
 ---
