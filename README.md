@@ -61,3 +61,22 @@ Desde mi estudio **WinterLabs** desarrollo eventos (En Desarollo La Cupula & The
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<p align="center">
+  <a href="https://discord.com/users/1420722236448309269">
+    <img src="https://lanyard.cnrad.dev/api/1420722236448309269?theme=dark&bg=000000&hideDiscrim=true" alt="Discord Presence"/>
+  </a>
+</p>
+<h2 align="center">📊 Mis Estadísticas</h2>
+<p align="center">
+  <img
+    src="https://github-readme-stats-lyart-one-57.vercel.app/api?username=zHolyWhite&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=7F52FF&title_color=7F52FF&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Estadísticas de GitHub"
+  />
+  <br/>
+  <br/>
+<img
+ src="https://github-readme-stats-lyart-one-57.vercel.app/api/top-langs/?username=zHolyWhite&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=7F52FF&hide_border=true"
+ alt="Lenguajes más utilizados"
+/>
+</p>
